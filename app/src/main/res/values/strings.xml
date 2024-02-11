@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">App ble thermal printer java</string>
+    <string name="bluetooth_printer">BlueTooth Printer</string>
 </resources>
