@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">App ble thermal printer java</string>
     <string name="bluetooth_printer">BlueTooth Printer</string>
+
+    <string name="bluetooth_not_supported">Bluetooth не поддерживается на этом устройстве</string>
+
+    <string name="bluetooth_on_off">Вкл./Выкл. Bluetooth</string>
+    <string name="bluetooth_off">Bluetooth выключен</string>
+    <string name="start_search">Начать поиск</string>
+
+    <string name="stop_search">Остановить поиск</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="led_red">Красный светодиод</string>
+
 </resources>
